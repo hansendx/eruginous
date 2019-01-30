@@ -1,6 +1,6 @@
 [package]
-name = "eruginous"
-version = "0.1.0"
+name = "eruginous-filesafe"
+version = "0.0.1"
 authors = ["hansendx <DominiqueHansen@gmx.net>"]
 edition = "2018"
 
